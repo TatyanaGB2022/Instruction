@@ -16,5 +16,15 @@ Windows:
 dir
 ```
 MacOs, Linux:
-```ls
+```sh
+ls
+```
+
+Удаление файла в Windows:
+```sh
+del <filename>
+```
+в MacOs, Linux:
+```sh
+rm <filename>
 ```
