@@ -10,7 +10,7 @@ git add
 ```
 Зафиксировать изменения
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 Посмотреть лог в полном виде
 ```sh
