@@ -24,6 +24,14 @@ git log
 ```sh
 git log --oneline
 ```
+Посмотреть лог в сокращенном виде с отображением слияния
+```sh
+git log --oneline --graph
+```
+Посмотреть все коммиты в виде дерева
+```sh
+git log --all --oneline --graph
+```
 Перемещение по веткам
 ```sh
 git checkout <имя_ветки>
@@ -44,7 +52,4 @@ git checkout -b <имя ветки>
 ```sh
 git branch -d <имя_ветки>
 ```
-Посмотреть лог в сокращенном виде с отображением слияния
-```sh
-git log --oneline --graph
-```
+
