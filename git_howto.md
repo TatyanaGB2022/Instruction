@@ -72,3 +72,4 @@ git merge <имя ветки>
 ```sh
 git checkout <name_branch>^
 ```
+что-то не так
