@@ -64,3 +64,7 @@ git branch -m main
 ```sh
 git checkout -b <имя ветки>
 ```
+Слияние двух веток
+```sh
+git merge <name_branch>
+```
