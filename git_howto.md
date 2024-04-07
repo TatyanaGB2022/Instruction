@@ -101,4 +101,3 @@ git merge --abord
 ```sh
 git checkout <имя ветки>^
 ```
-
